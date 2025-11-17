@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,70): warning C4244:         with
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,70): warning C4244:         [
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,70): warning C4244:             T=unsigned int
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,70): warning C4244:         ]
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,46): warning C4244:         with
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,46): warning C4244:         [
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,46): warning C4244:             T=unsigned int
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(124,46): warning C4244:         ]
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(209,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(210,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(217,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(217,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(222,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohila\ITI\VS Projects\Maze_Game\Source.cpp(222,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Maze_Game.vcxproj -> C:\Users\sohila\ITI\VS Projects\Maze_Game\x64\Debug\Maze_Game.exe
