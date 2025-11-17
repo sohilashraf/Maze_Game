@@ -111,7 +111,7 @@ int main()
     Sprite wall(wallTex);
     Sprite ground(groundTex);
     Sprite winSprite(winTex);
-    Sprite playerSprite(playerDownTex);
+    Sprite playerSprite(playerRightTex);
     Sprite treasureSprite(treasureTex);
 
 
@@ -143,10 +143,11 @@ int main()
             if (e.type == Event::Closed)
                 window.close();
 
+            Texture* moveTex = &playerRightTex;
+
             if (e.type == Event::KeyPressed && mazeFinished && !hasWon)
             {
                 int nr = playerRow, nc = playerCol;
-                Texture* moveTex = nullptr;
 
                 if (e.key.code == Keyboard::Up) { nr--; moveTex = &playerUpTex; }
                 if (e.key.code == Keyboard::Down) { nr++; moveTex = &playerDownTex; }
